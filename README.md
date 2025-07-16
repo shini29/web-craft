@@ -10,10 +10,10 @@ Easy navigation menu
 Getting Started
 
 Clone the repository:
-bashgit clone https://github.com/shini29/web-craft.git
+git clone https://github.com/shini29/web-craft.git
 
 Navigate to the travel website folder:
-bashcd web-craft/travel-website
+cd web-craft/travel-website
 
 Add your images:
 
